@@ -1,8 +1,53 @@
 # Road to freedom :smiley_cat::smiley_cat:
 
+## OBJETIVO 
 Trata-se de um repositório de estudos com distintos focos: (1) testar as diversas funcionalidades do github, (2) agregar materiais de estudo dos meus diversos interesses (3) inserir projetos de disciplinas do semestre letivo atual (4) utilizar o github pages apra algum fim. 
 
-No semestre letivo de 2022-2 e dada a proximidade da minha conclusão do curso, utilizarei o **RoadToFredom** para guardar projetos e trabalhos das disciplinas. As disciplinas em questão serão as seguintes:
+No semestre letivo de 2022-2 e dada a proximidade a confusão prometida para esse período, utilizarei o **RoadToFredom** para guardar projetos e trabalhos das disciplinas. As disciplinas em questão serão as seguintes:
+
+## Quem sou eu
+Desenvolvedor em formação e atuação, possuo mestrado em redes, bacharelado em física e pós-graduação em educação e formação à distância. Atualmente, resido em Aracaju/Sergipe e estudo ciência da computação na UFS. 
+
+## Aracaju/Sergipe
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -37.00720517485263,
+              -10.99923394069279
+            ],
+            [
+              -37.00720517485263,
+              -10.787276414611242
+            ],
+            [
+              -37.157916695279425,
+              -10.787276414611242
+            ],
+            [
+              -37.157916695279425,
+              -10.99923394069279
+            ],
+            [
+              -37.00720517485263,
+              -10.99923394069279
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ],
+  "bbox": null
+}
+```
 
 ---
 **DISCIPLINAS semestre 2022.2**
@@ -36,3 +81,5 @@ Questões práticas quanto ao tempo para implementação, features e outros aspe
 #### STACKs tecnológicas
 
 Algumas considerações devem ser levadas em consideração na escolha da stack. Nesse semetre vou realizar vários projetos, é certo :smile: ! por esse motivo vou unir o útil ao agradável: Python para (1) e (2).  
+
+
