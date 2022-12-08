@@ -25,14 +25,13 @@ Durante o período de __férias__ letivas estarei estudando algumas tecnologias 
 
 ### Alguns projetos pessoais
 
-Existem dois projetos que vou tirar da gaveta nessas férias: 
+Existem dois projetos que vou tirar da gaveta nessas férias de fim de ano: 
 
----
-(1) __Investigação de relações em livros utilizando a teoria dos grafos__: Trata-se da busca por informações em dados provenientes, num primeiro momento, do livro The Witcher de Andrzej Sapkowiski. O objetivo seria encontrar as relações existentes entre os personagens, lugares, etc. As informações encontradas podem ser utilizadas para a construção de outros apps com objetivos mais gráficos. 
+(1) __Investigação de relações no livro The Witcher utilizando a teoria dos grafos__: Trata-se da busca por informações em dados provenientes, num primeiro momento, do livro The Witcher de Andrzej Sapkowiski. O objetivo seria encontrar as relações existentes entre os personagens, lugares, etc. As informações encontradas podem ser utilizadas para a construção de outros apps com objetivos mais gráficos. 
 
-(2) __App para uma start up ConcEsc__: Aplicativo para informatizar um negócio de aperfeiçoamento de textos técnicos ou acadêmicos, livros, etc. O foco é no cliente, disponibilizando ferramentas queviabilizem a comunicação e todo o processo de ajustes, envio e entrega do trabalho.
+(2) __App para uma start up ConcEsc__: Aplicativo para informatizar um negócio de aperfeiçoamento de textos técnicos, acadêmicos, livros, etc. O foco é no cliente, disponibilizando ferramentas que viabilizam a comunicação e todo o processo de ajustes por parte do técnico, o envio e entrega do trabalho parcial/final.
 
----
+Questões práticas quanto ao tempo para implementação, features e outros aspectos serão detalhados nos respectivos repositórios da aplicação.    
 
 #### STACKs tecnológicas
 
